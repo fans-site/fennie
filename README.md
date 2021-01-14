@@ -26,7 +26,7 @@
 
 ## 社交媒体
 
-- https://members.tripod.com/fennie_news/
+- [袁洁莹的小居](https://members.tripod.com/fennie_news/)
 
 - [袁洁莹在香港影库上的简介](http://www.hkmdb.com/db/people/view.mhtml?id=5686&display_set=big5)
 - [袁洁莹在互联网电影数据库（IMDb）上的资料](https://www.imdb.com/name/nm00950722/)
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-https://music.163.com/#/artist?id=10266
+[网易云音乐](https://music.163.com/#/artist?id=10266)
 
 
 
