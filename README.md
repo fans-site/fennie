@@ -22,8 +22,6 @@
 
 
 
-
-
 ## 社交媒体
 
 - [袁洁莹的小居](https://members.tripod.com/fennie_news/)
@@ -37,7 +35,7 @@
 
 
 
-## 音乐
+## 音乐作品
 
 [网易云音乐](https://music.163.com/#/artist?id=10266)
 
@@ -49,9 +47,21 @@
 
 
 
+## 贡献此文章
+
+请到 [https://github.com/fans-site/fennie](https://github.com/fans-site/fennie) 提交代码。
+
+
+
+## 保存袁洁莹的资料
+
+请到 [https://web.archive.org/save](https://web.archive.org/save) 网站上粘贴文章链接，用以存储数据。
+
+
+
 ## 视频资料
 
-### 星級會客室2014 [#袁潔瑩](https://www.youtube.com/hashtag/袁潔瑩) 訪問
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvwvOFKceTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
