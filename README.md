@@ -1,5 +1,7 @@
 # Fennie Yuen 袁洁莹 袁潔瑩
 
+## [访问链接](https://fans-site.github.io/fennie)
+
 ## 介绍
 
 **袁洁莹**（英语：Fennie Yuen，1969年9月15日－），[香港](https://zh.wikipedia.org/wiki/香港)女演员及歌手，曾推出个人专辑和接拍无线剧集，前[无线电视部头合约](https://zh.wikipedia.org/wiki/前無綫電視藝員列表)艺人。
@@ -11,10 +13,6 @@
 1990年代初，袁洁莹曾参演《[笑傲江湖](https://zh.wikipedia.org/wiki/笑傲江湖)》、《[东方不败](https://zh.wikipedia.org/wiki/东方不败)》、《[太极张三丰](https://zh.wikipedia.org/wiki/太極張三丰)》、《[边城浪子](https://zh.wikipedia.org/wiki/邊城浪子)》、《[苏乞儿](https://zh.wikipedia.org/wiki/蘇乞兒)》等大量武侠电影，其侠女形象亦广受好评。1991年，她与香港[无线电视](https://zh.wikipedia.org/wiki/無綫電視)签了部头合约，开始演出电视剧集如《[风之刀](https://zh.wikipedia.org/wiki/风之刀)》、《[烈火狂奔](https://zh.wikipedia.org/wiki/烈火狂奔)》、《[阖府统请](https://zh.wikipedia.org/wiki/闔府統請)》、《[廉政追缉令](https://zh.wikipedia.org/wiki/廉政追緝令)》、《[双面伊人](https://zh.wikipedia.org/wiki/雙面伊人)》、《[人龙传说](https://zh.wikipedia.org/wiki/人龍傳說)》等。1993年，她亦曾短暂加入乐坛推出过两张个人唱片，期间曾在1994年患上了[厌食症](https://zh.wikipedia.org/wiki/厭食症)，令事业一度短暂停滞。
 
 2000年后，袁洁莹逐渐减少幕前演出，2002年与无线结束部头合约，只是偶尔出席一些活动及做丰胸代言人，并曾一度经营“森㷧轩”中医美容院。[[9\]](https://zh.wikipedia.org/wiki/袁潔瑩#cite_note-10)2013年6月20日，43岁的她相隔12年复出拍剧，参演其好友[曾志伟](https://zh.wikipedia.org/wiki/曾志偉)监制的TVB时装新剧《[女人俱乐部](https://zh.wikipedia.org/wiki/女人俱樂部)》；现时主要从事义工活动，帮助社会上更多有需要的人。
-
-### 感情生活
-
-袁洁莹曾经于1988年开始与音乐人[徐日勤](https://zh.wikipedia.org/wiki/徐日勤)拍拖[[10\]](https://zh.wikipedia.org/wiki/袁潔瑩#cite_note-11)，其后分手。亦曾与[刘銮雄](https://zh.wikipedia.org/wiki/劉鑾雄)、[郭富城](https://zh.wikipedia.org/wiki/郭富城)、[王杰](https://zh.wikipedia.org/wiki/王傑)[[11\]](https://zh.wikipedia.org/wiki/袁潔瑩#cite_note-12)、[颜福伟](https://zh.wikipedia.org/wiki/顏福偉)[[12\]](https://zh.wikipedia.org/wiki/袁潔瑩#cite_note-13)、[陈维冠](https://zh.wikipedia.org/wiki/陳維冠)及同性密友阮嘉欣传出绯闻。
 
 
 
