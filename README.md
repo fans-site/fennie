@@ -23,13 +23,13 @@
 ## 社交媒体
 
 - [袁洁莹的小居](https://members.tripod.com/fennie_news/)
-
 - [袁洁莹在香港影库上的简介](http://www.hkmdb.com/db/people/view.mhtml?id=5686&display_set=big5)
 - [袁洁莹在互联网电影数据库（IMDb）上的资料](https://www.imdb.com/name/nm00950722/)
 - 在AllMovie上[袁洁莹](https://www.allmovie.com/artist/p157344)
 - [袁洁莹在豆瓣电影上的简介](https://movie.douban.com/celebrity/1051082/)
 - [微博](https://weibo.com/u/2147451454)
 - [豆瓣](https://movie.douban.com/celebrity/1051082/)
+- [微博-袁洁莹超话](https://weibo.com/p/10080892596b985957e787ea3ea812faaaebca/super_index)
 
 
 
@@ -57,6 +57,32 @@
 
 
 
+## 粉丝
+
+[Fennie可风](https://weibo.com/u/6514172147)
+
+[微博-三包榨菜]([三包榨菜](https://weibo.com/u/2886139181?refer_flag=1008085010_))
+
+[叮当66300](https://weibo.com/u/7545737956?refer_flag=1008085010)
+
+[袁神小可爱](https://weibo.com/u/6326284546?refer_flag=1008085010_)
+
+[ExplorerYoung](https://weibo.com/u/6052901841?refer_flag=1008085010_)
+
+[圆嘟嘟的短发](https://weibo.com/u/3823294048?refer_flag=1008085010_)
+
+[三包榨菜](https://weibo.com/u/2886139181?refer_flag=1008085010_)
+
+[LimLaiKuan](https://weibo.com/u/2820677352?topnav=1&wvr=6&topsug=1)
+
+
+
+### 其他资料
+
+[袁洁莹心书](https://weixinshu.com/books/MDBiNWM5YTE2YmExOmJsb2dib29rOg)
+
+
+
 ## 视频资料
 
 
@@ -80,6 +106,18 @@
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3sR9QH2Pv1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/4m01wdekl4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+<iframe src="//player.bilibili.com/player.html?aid=31857430&bvid=BV1aW411k7m2&cid=55716566&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=23699613&bvid=BV1Pp411o7Aj&cid=39596994&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=23645841&bvid=BV1vp411d78Y&cid=39491563&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=23561997&bvid=BV1wp411f7tr&cid=39326596&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
