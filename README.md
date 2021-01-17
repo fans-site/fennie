@@ -30,6 +30,7 @@
 - [微博](https://weibo.com/u/2147451454)
 - [豆瓣](https://movie.douban.com/celebrity/1051082/)
 - [微博-袁洁莹超话](https://weibo.com/p/10080892596b985957e787ea3ea812faaaebca/super_index)
+- [百度贴吧](https://tieba.baidu.com/f?kw=%E8%A2%81%E6%B4%81%E8%8E%B9&ie=utf-8)
 
 
 
@@ -51,13 +52,55 @@
 
 
 
-## 保存袁洁莹的资料
+## 历史资料
 
-请到 [https://web.archive.org/save](https://web.archive.org/save) 网站上粘贴文章链接，用以存储数据。
+感谢 https://web.archive.org 提供了保存互联网数据的服务，使我们可以将互联网的数据保留下来。
+
+让我们把指针拨回到2007年。
+
+### 袁洁莹中文站1 http://fennie.dreamjc.com
+
+https://web.archive.org/web/20050324005559/http://fennie.dreamjc.com/
+
+### 袁洁莹中文站2 http://fennieyuen.com
+
+http://web.archive.org/web/20090606170420/http://www.fennieyuen.com/index.asp
+
+### E视
+
+https://web.archive.org/web/20050325105736/http://club.netandtv.com:80/club/clubhome.aspx?id=390
+
+### 新浪袁洁莹-冰洁玉莹俱乐部
+
+https://web.archive.org/web/20030404174933/http://star.sina.com.cn/fc/jieying/
+
+### 洁莹小居  (http://fennie_home.tripod.com)
+
+https://web.archive.org/web/20010917131742/http://fennie_home.tripod.com/index2.htm
+
+### 中华之星
+
+https://web.archive.org/web/20030812011615/http://1chinastar.com/cc/1/20077.shtml
+
+### 洁莹雅居
+
+https://web.archive.org/web/20041127162857/http://members.lycos.co.uk/bonnie168168/
+
+#### 英文讨论区
+
+https://web.archive.org/web/20021223120327/http://www.himigpinoy.com/hkpop/forums/fennie/
 
 
 
-## 粉丝
+## 保存资料
+
+请到 [https://web.archive.org/save](https://web.archive.org/save) 网站上粘贴网站链接，用以存储数据。
+
+
+
+## 粉丝信息
+
+[佳宁的Blog](http://blog.sina.com.cn/jinjianing)
 
 [Fennie可风](https://weibo.com/u/6514172147)
 
