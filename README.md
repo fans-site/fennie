@@ -1,6 +1,6 @@
 # Fennie Yuen 袁洁莹 袁潔瑩
 
-## [访问链接](https://fans-site.github.io/fennie)
+## [访问链接](https://fennieyuen.github.io/fennie)
 
 ## 介绍
 
